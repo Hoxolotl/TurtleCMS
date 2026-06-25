@@ -3,6 +3,7 @@ Solid Turtle CMS, to turn your solid pod into a website.
 
 #design
 
+
 ```mermaid
 flowchart TD
     A[Solid Pod\nSource Truth] --> sync/poll/webhook| B[Local RDF\nCache/Store]
