@@ -6,7 +6,7 @@ Solid Turtle CMS, to turn your solid pod into a website.
 
 ```mermaid
 flowchart TD
-    A["Solid Pod Source Truth"] --> sync/poll/webhook| B["Local RDF Cache/Store"]
+    A["Solid Pod Source Truth"] --> B["Local RDF Cache/Store"]
     B --> C["Turtle CMS Renderer"]
     C --> D["Static Site"]
     D -->|SimplyEdit| E["Solid Login Metro"]
