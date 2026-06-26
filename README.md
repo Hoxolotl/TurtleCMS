@@ -40,5 +40,20 @@ flowchart TD
     E --> F["Write directly to Pod"]
 ```
 
+## Edit mode flow:
+View mode
+    ↓
+Click "Edit"
+    ↓
+Login with Solid
+    ↓
+Get WebID + Pod root
+    ↓
+Load /websites/currentWebsiteURL/main.ttl
+    ↓
+Create if missing
+    ↓
+Switch to edit mode
+
 #LICENSE
 EUPL by Govert Combée
