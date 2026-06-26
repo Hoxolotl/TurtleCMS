@@ -26,10 +26,10 @@ Solid Turtle CMS, to turn your solid pod into a website.
    * [ ] formats and how they're styled 
 
 * Simply edit/things
-    ** log into the website(pod)
-    ** make changes to the page by actually editing the .ttl files on the pod
+ * log into the website(pod)
+ * make changes to the page by actually editing the .ttl files on the pod
 
-
+# designs chema WIP
 
 ```mermaid
 flowchart TD
